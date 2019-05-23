@@ -1,0 +1,15 @@
+{
+    "name": "deozza/philarmony-pack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edenn Touitou",
+            "email": "deozza@gmail.com"
+        }
+    ],
+    "require": {
+        "deozza/philarmony-core-bundle": "^2.0",
+        "deozza/philarmony-user-bundle": "^1.0",
+        "deozza/response-maker-bundle": "^1.0"
+    }
+}
