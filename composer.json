@@ -11,5 +11,8 @@
         "deozza/philarmony-core-bundle": "^2.0",
         "deozza/philarmony-user-bundle": "^1.1",
         "deozza/response-maker-bundle": "^1.0"
+    },
+    "require-dev": {
+        "deozza/api-tester-bundle": "^1.1"
     }
 }
